@@ -1,0 +1,1 @@
+wasmer run wasix-multithreading.wasm /book/alice-in-wonderland.txt --mapdir=[full path]/wasix-tutorials/wasix-multithreading/book
